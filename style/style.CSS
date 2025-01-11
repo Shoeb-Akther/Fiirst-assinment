@@ -293,4 +293,6 @@
 }
 .hoverBtn:hover{
     background: linear-gradient(to top, #33ccff 0%, #ff99cc 44%);
+    transform: scale(1.05);
 }
+
