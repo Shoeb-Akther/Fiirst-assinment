@@ -108,3 +108,42 @@
 .fst{background-color: rgba(84, 144, 245, 1);}
 .sec{background-color: rgba(9, 161, 92, 1);}
 .trd{background-color:rgba(255, 194, 57, 1)}
+.fst-co{
+    background-color: #d5e1f5 !important;
+}
+.sec-co{
+    background-color: #c6e4d6 !important;
+}
+.trd-co{
+    background-color: #f7ebcf !important;
+}
+.cote {
+    padding: 48px 24px;
+    background-image: url(./assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 24px 10px;
+}
+.cote h5{
+    color: rgba(14, 14, 14, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+}
+.cote h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    margin: 12px 0px 4px;
+}
+.cote p{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.code-bg{
+    background-color: white;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+}
+.cote-sec{
+    padding: 32px 0px 80px;
+}
