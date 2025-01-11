@@ -291,3 +291,6 @@
     color: white !important;
     border: none;
 }
+.hoverBtn:hover{
+    background: linear-gradient(to top, #33ccff 0%, #ff99cc 44%);
+}
